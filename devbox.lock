@@ -1,0 +1,309 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "SDL2@2.30.6": {
+      "last_modified": "2024-08-31T10:12:23Z",
+      "resolved": "github:NixOS/nixpkgs/5629520edecb69630a3f4d17d3d33fc96c13f6fe#SDL2",
+      "source": "devbox-search",
+      "version": "2.30.6",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/iryfx6xikcsffn3jppq6yp6f7ra1452z-SDL2-2.30.6",
+              "default": true
+            },
+            {
+              "name": "dev",
+              "path": "/nix/store/dvy8lhayzw4s3pgb25w8plyp0pqsfhyh-SDL2-2.30.6-dev"
+            }
+          ],
+          "store_path": "/nix/store/iryfx6xikcsffn3jppq6yp6f7ra1452z-SDL2-2.30.6"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/qkmdn9rw7h74ggqawc3hm2jyygkh774i-SDL2-2.30.6",
+              "default": true
+            },
+            {
+              "name": "dev",
+              "path": "/nix/store/icpk2xrnm3fzmb3gnmkqib9scqw669dy-SDL2-2.30.6-dev"
+            }
+          ],
+          "store_path": "/nix/store/qkmdn9rw7h74ggqawc3hm2jyygkh774i-SDL2-2.30.6"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ckgr8ch10wvq18zy3k14acyidvx7g8wh-SDL2-2.30.6",
+              "default": true
+            },
+            {
+              "name": "dev",
+              "path": "/nix/store/32gm8lqkx5jn7jr06d9d1lmj852q3gb2-SDL2-2.30.6-dev"
+            }
+          ],
+          "store_path": "/nix/store/ckgr8ch10wvq18zy3k14acyidvx7g8wh-SDL2-2.30.6"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/m1d9yhb7wbanfgyzfbd1i3n3fvk3l8z7-SDL2-2.30.6",
+              "default": true
+            },
+            {
+              "name": "dev",
+              "path": "/nix/store/v3mykjwcyg50kgdr0f5gpa0hzhk1k687-SDL2-2.30.6-dev"
+            }
+          ],
+          "store_path": "/nix/store/m1d9yhb7wbanfgyzfbd1i3n3fvk3l8z7-SDL2-2.30.6"
+        }
+      }
+    },
+    "SDL2_image@2.8.2": {
+      "last_modified": "2024-08-31T10:12:23Z",
+      "resolved": "github:NixOS/nixpkgs/5629520edecb69630a3f4d17d3d33fc96c13f6fe#SDL2_image",
+      "source": "devbox-search",
+      "version": "2.8.2",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/nwydhjr81cdj02r11wbifjhmpcg55zi8-SDL2_image-2.8.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/nwydhjr81cdj02r11wbifjhmpcg55zi8-SDL2_image-2.8.2"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/3kfvc5gh60jrg013c439v04l0vqj4qkc-SDL2_image-2.8.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/3kfvc5gh60jrg013c439v04l0vqj4qkc-SDL2_image-2.8.2"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/rsl0sd27mnv607lwwsc4d4ppm533822b-SDL2_image-2.8.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/rsl0sd27mnv607lwwsc4d4ppm533822b-SDL2_image-2.8.2"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/cgm1q4n2jc79p51p7cmpc2nwwxy39mw7-SDL2_image-2.8.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/cgm1q4n2jc79p51p7cmpc2nwwxy39mw7-SDL2_image-2.8.2"
+        }
+      }
+    },
+    "SDL2_ttf@2.22.0": {
+      "last_modified": "2024-08-31T10:12:23Z",
+      "resolved": "github:NixOS/nixpkgs/5629520edecb69630a3f4d17d3d33fc96c13f6fe#SDL2_ttf",
+      "source": "devbox-search",
+      "version": "2.22.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/gqy7hdvcj1nr5hl505y36j0521pvgb16-SDL2_ttf-2.22.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/gqy7hdvcj1nr5hl505y36j0521pvgb16-SDL2_ttf-2.22.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/n5dba7n80h59yldypblx4f6sh9jkfiy1-SDL2_ttf-2.22.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/n5dba7n80h59yldypblx4f6sh9jkfiy1-SDL2_ttf-2.22.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/i0i6cf7kg67qc448crj5vsqn3ly0abj1-SDL2_ttf-2.22.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/i0i6cf7kg67qc448crj5vsqn3ly0abj1-SDL2_ttf-2.22.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/7gsgjgqcs65ik0dj8byn0midqhdxnkfn-SDL2_ttf-2.22.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/7gsgjgqcs65ik0dj8byn0midqhdxnkfn-SDL2_ttf-2.22.0"
+        }
+      }
+    },
+    "luajit@2.1.1713773202": {
+      "last_modified": "2024-08-31T10:12:23Z",
+      "resolved": "github:NixOS/nixpkgs/5629520edecb69630a3f4d17d3d33fc96c13f6fe#luajit",
+      "source": "devbox-search",
+      "version": "2.1.1713773202",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/wz9j94f7bn4vl5l4cfg5mhgmvfxwxgp5-luajit-2.1.1713773202",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/wz9j94f7bn4vl5l4cfg5mhgmvfxwxgp5-luajit-2.1.1713773202"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/al38sizypxbm15ry3rqf69kq2rvwrm7i-luajit-2.1.1713773202",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/al38sizypxbm15ry3rqf69kq2rvwrm7i-luajit-2.1.1713773202"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/0jw3vcqmd7w93ll292awm47zd00nd1cn-luajit-2.1.1713773202",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/0jw3vcqmd7w93ll292awm47zd00nd1cn-luajit-2.1.1713773202"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/pk2920bg8glacidplksdrv41kyanbb1k-luajit-2.1.1713773202",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/pk2920bg8glacidplksdrv41kyanbb1k-luajit-2.1.1713773202"
+        }
+      }
+    },
+    "nim@2.0.4": {
+      "last_modified": "2024-07-11T08:49:09Z",
+      "resolved": "github:NixOS/nixpkgs/6af55cb91ca2005516b9562f707bb99c8f79bf77#nim",
+      "source": "devbox-search",
+      "version": "2.0.4",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/11bwdyrpcld2qiyliscsa345ard0717p-aarch64-apple-darwin-nim-wrapper-2.0.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/11bwdyrpcld2qiyliscsa345ard0717p-aarch64-apple-darwin-nim-wrapper-2.0.4"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/rga680nijglzg0zyjqad1ii39hb2b4zm-aarch64-unknown-linux-gnu-nim-wrapper-2.0.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/rga680nijglzg0zyjqad1ii39hb2b4zm-aarch64-unknown-linux-gnu-nim-wrapper-2.0.4"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/xa5qxvcgjzb65yip040wzjqvjjzzbac8-x86_64-apple-darwin-nim-wrapper-2.0.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/xa5qxvcgjzb65yip040wzjqvjjzzbac8-x86_64-apple-darwin-nim-wrapper-2.0.4"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/fbi9xnbjdigln21qzhv7cmf7p4vz55fj-x86_64-unknown-linux-gnu-nim-wrapper-2.0.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/fbi9xnbjdigln21qzhv7cmf7p4vz55fj-x86_64-unknown-linux-gnu-nim-wrapper-2.0.4"
+        }
+      }
+    },
+    "nimble@0.14.2": {
+      "last_modified": "2024-05-22T06:18:38Z",
+      "resolved": "github:NixOS/nixpkgs/3f316d2a50699a78afe5e77ca486ad553169061e#nimble",
+      "source": "devbox-search",
+      "version": "0.14.2",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/9i709ipp53hx64fpl7zsyba5mbnj1ph7-nimble-0.14.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/9i709ipp53hx64fpl7zsyba5mbnj1ph7-nimble-0.14.2"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/5z73n6rqi605n1vjkynx8i5bklc72s2j-nimble-0.14.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/5z73n6rqi605n1vjkynx8i5bklc72s2j-nimble-0.14.2"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/qx45hm8vyh9if4mh7pcm8n64q22rz094-nimble-0.14.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/qx45hm8vyh9if4mh7pcm8n64q22rz094-nimble-0.14.2"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/q5i99p78fhyb2dyw1virds9jjd2f4qh6-nimble-0.14.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/q5i99p78fhyb2dyw1virds9jjd2f4qh6-nimble-0.14.2"
+        }
+      }
+    }
+  }
+}
